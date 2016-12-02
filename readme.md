@@ -15,6 +15,6 @@ Then when you have the files, run the file `astro_advent.py` in Python 3
 python3 astro_advent.py
 ```
 
-You can also run the Astronaut Advent Calendar with the Sense HAT emulator if you don't have the Sense HAT hardware. 
+You can also run the Astronaut Advent Calendar with the Sense HAT emulator if you don't have the Sense HAT hardware.
 
-<iframe src="https://trinket.io/embed/python/05dbebcf6c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+[Sense HAT Emulator Astronaut Advent Calendar](https://trinket.io/python/34f0bc33d2)
