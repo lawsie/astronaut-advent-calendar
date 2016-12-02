@@ -1,4 +1,4 @@
-## Astronaut Advent Calendar
+# Astronaut Advent Calendar
 
 What does an astronaut use for an advent calendar? An AstroPi of course!
 
@@ -18,3 +18,6 @@ python3 astro_advent.py
 You can also run the Astronaut Advent Calendar with the Sense HAT emulator if you don't have the Sense HAT hardware.
 
 [Sense HAT Emulator Astronaut Advent Calendar](https://trinket.io/python/34f0bc33d2)
+
+## Instructions
+Use the joystick on the Sense HAT / the arrow keys on the emulator to control which door you are pointing to. Press the joystick / press enter to open that door.
